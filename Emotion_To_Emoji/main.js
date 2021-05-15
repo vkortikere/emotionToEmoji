@@ -1,3 +1,4 @@
+
 //https://teachablemachine.withgoogle.com/models/c5ZVIEcX3/model.json
 
 prediction_1="";
